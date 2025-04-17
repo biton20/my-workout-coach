@@ -26,3 +26,5 @@ git clone https://github.com/yourusername/my-workout-coach.git
 cd my-workout-coach
 pip install -r requirements.txt
 streamlit run app.py
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/biton20/my-workout-coach/main/app.py)
