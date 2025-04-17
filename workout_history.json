@@ -1,0 +1,284 @@
+[
+  {
+    "user": "User",
+    "goal": "strength",
+    "intensity": "medium",
+    "timestamp": "2025-04-17T12:18:55.707063",
+    "workout": [
+      {
+        "name": "Chest Fly",
+        "equipment": "dumbbells",
+        "sets": 3,
+        "reps": 12
+      },
+      {
+        "name": "Bench Press",
+        "equipment": "barbell",
+        "sets": 4,
+        "reps": 10
+      },
+      {
+        "name": "Push-ups",
+        "equipment": "none",
+        "sets": 3,
+        "reps": 15
+      }
+    ]
+  },
+  {
+    "user": "User",
+    "goal": "strength",
+    "intensity": "medium",
+    "timestamp": "2025-04-17T12:19:03.294508",
+    "workout": [
+      {
+        "name": "Squats",
+        "equipment": "none",
+        "sets": 4,
+        "reps": 12
+      },
+      {
+        "name": "Deadlifts",
+        "equipment": "barbell",
+        "sets": 4,
+        "reps": 8
+      },
+      {
+        "name": "Lunges",
+        "equipment": "none",
+        "sets": 3,
+        "reps": 12
+      }
+    ]
+  },
+  {
+    "user": "User",
+    "goal": "strength",
+    "intensity": "easy",
+    "timestamp": "2025-04-17T12:20:42.979572",
+    "workout": [
+      {
+        "name": "Chest Fly",
+        "equipment": "dumbbells",
+        "sets": 2,
+        "reps": 10
+      },
+      {
+        "name": "Bench Press",
+        "equipment": "barbell",
+        "sets": 3,
+        "reps": 8
+      },
+      {
+        "name": "Push-ups",
+        "equipment": "none",
+        "sets": 2,
+        "reps": 12
+      }
+    ]
+  },
+  {
+    "user": "User",
+    "goal": "strength",
+    "intensity": "easy",
+    "timestamp": "2025-04-17T12:24:11.587924",
+    "workout": [
+      {
+        "name": "Bench Press",
+        "equipment": "barbell",
+        "sets": 3,
+        "reps": 8
+      },
+      {
+        "name": "Chest Fly",
+        "equipment": "dumbbells",
+        "sets": 2,
+        "reps": 10
+      },
+      {
+        "name": "Push-ups",
+        "equipment": "none",
+        "sets": 2,
+        "reps": 12
+      }
+    ]
+  },
+  {
+    "user": "User",
+    "goal": "strength",
+    "intensity": "easy",
+    "timestamp": "2025-04-17T12:27:17.392415",
+    "workout": [
+      {
+        "name": "Chest Fly",
+        "equipment": "dumbbells",
+        "sets": 2,
+        "reps": 10
+      },
+      {
+        "name": "Bench Press",
+        "equipment": "barbell",
+        "sets": 3,
+        "reps": 8
+      },
+      {
+        "name": "Push-ups",
+        "equipment": "none",
+        "sets": 2,
+        "reps": 12
+      }
+    ]
+  },
+  {
+    "user": "User",
+    "goal": "strength",
+    "intensity": "easy",
+    "timestamp": "2025-04-17T12:29:56.294729",
+    "workout": [
+      {
+        "name": "Push-ups",
+        "equipment": "none",
+        "sets": 2,
+        "reps": 12
+      }
+    ]
+  },
+  {
+    "user": "\u05db\u05de\u05d3",
+    "goal": "cardio",
+    "intensity": "hard",
+    "timestamp": "2025-04-17T12:30:33.177567",
+    "workout": [
+      {
+        "name": "Jumping Jacks",
+        "equipment": "none",
+        "duration": 39
+      }
+    ]
+  },
+  {
+    "user": "\u05db\u05de\u05d3",
+    "goal": "cardio",
+    "intensity": "hard",
+    "timestamp": "2025-04-17T12:30:35.256601",
+    "workout": [
+      {
+        "name": "Rowing",
+        "equipment": "machine",
+        "duration": 58
+      }
+    ]
+  },
+  {
+    "user": "User",
+    "goal": "strength",
+    "intensity": "easy",
+    "timestamp": "2025-04-17T12:30:48.980233",
+    "workout": [
+      {
+        "name": "Pull-ups",
+        "equipment": "none",
+        "sets": 3,
+        "reps": 6
+      }
+    ]
+  },
+  {
+    "user": "User",
+    "goal": "cardio",
+    "intensity": "hard",
+    "timestamp": "2025-04-17T12:31:11.627933",
+    "workout": [
+      {
+        "name": "Jumping Jacks",
+        "equipment": "none",
+        "duration": 39
+      },
+      {
+        "name": "Mountain Climbers",
+        "equipment": "none",
+        "duration": 39
+      },
+      {
+        "name": "High Knees",
+        "equipment": "none",
+        "duration": 58
+      }
+    ]
+  },
+  {
+    "user": "User",
+    "goal": "cardio",
+    "intensity": "hard",
+    "timestamp": "2025-04-17T12:31:29.012226",
+    "workout": [
+      {
+        "name": "High Knees",
+        "equipment": "none",
+        "duration": 58
+      },
+      {
+        "name": "Jumping Jacks",
+        "equipment": "none",
+        "duration": 39
+      },
+      {
+        "name": "Mountain Climbers",
+        "equipment": "none",
+        "duration": 39
+      }
+    ]
+  },
+  {
+    "user": "User",
+    "goal": "crossfit",
+    "intensity": "medium",
+    "timestamp": "2025-04-17T12:36:55.533901",
+    "workout": [
+      {
+        "name": "Tabata: Jump Squats",
+        "equipment": "none"
+      },
+      {
+        "name": "21-15-9: Thrusters + Pull-ups",
+        "equipment": "dumbbells"
+      },
+      {
+        "name": "AMRAP 10 min: 10 Burpees + 10 Air Squats",
+        "equipment": "none"
+      }
+    ]
+  },
+  {
+    "user": "User",
+    "goal": "crossfit",
+    "intensity": "hard",
+    "timestamp": "2025-04-17T12:42:19.072614",
+    "workout": [
+      {
+        "name": "21-15-9: Thrusters + Pull-ups",
+        "equipment": "dumbbells"
+      }
+    ]
+  },
+  {
+    "user": "User",
+    "goal": "crossfit",
+    "intensity": "hard",
+    "timestamp": "2025-04-17T12:42:25.286107",
+    "workout": [
+      {
+        "name": "3 Rounds: 400m Run + 21 Kettlebell Swings",
+        "equipment": "none"
+      },
+      {
+        "name": "Tabata: Jump Squats",
+        "equipment": "none"
+      },
+      {
+        "name": "21-15-9: Thrusters + Pull-ups",
+        "equipment": "dumbbells"
+      }
+    ]
+  }
+]
