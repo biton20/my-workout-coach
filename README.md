@@ -1,30 +1,34 @@
-# 🏋️ My Workout Coach
+# 🏋️‍♂️ My Workout Coach
 
-**My Workout Coach** is a personalized fitness planner built with Python and Streamlit.  
-Users can generate strength, cardio, or CrossFit workouts based on their equipment, goals, intensity, and preferences.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/biton20/my-workout-coach/main/app.py)
+
+**My Workout Coach** is a personal fitness planning app that helps you build customized workouts based on your goals, equipment, and preferred intensity.
+
+> Built with **Python + Streamlit**, supports PDF export, training history, and interactive filters.
+
+---
 
 ## 🚀 Features
 
-- 💪 Strength, 🏃 Cardio, 🧨 CrossFit workout generator
-- 🧠 Intensity-based custom plans
-- 🧰 Equipment filter (supports multi-selection)
-- 📥 Download workout as PDF
-- 📈 View workout history with charts
-- 🎯 Target by muscle group (chest, back, legs, full-body)
+- 🎯 Choose workout type: **Strength**, **Cardio**, or **CrossFit**
+- 🧠 Adjust intensity: Easy / Medium / Hard
+- 🏋️‍♀️ Select muscle group (chest, back, legs, or full body)
+- 🧰 Choose multiple available equipment (or none at all)
+- 📄 Export your workout as a **PDF**
+- 🕓 Keep track of previous workouts (with history & charts)
 
-## 🛠️ Built With
-- Python
-- Streamlit
-- Matplotlib
-- ReportLab
-- JSON-based history tracking
+---
 
-## 📦 Installation
+## 📸 Screenshots
+
+<img src="https://via.placeholder.com/900x400.png?text=Workout+UI+Preview" alt="UI Preview" width="100%">
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/my-workout-coach.git
+git clone https://github.com/biton20/my-workout-coach.git
 cd my-workout-coach
-pip install -r requirements.txt
-streamlit run app.py
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/biton20/my-workout-coach/main/app.py)
